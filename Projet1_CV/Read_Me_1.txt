@@ -38,4 +38,9 @@ ping CV
 
 Pour finir , il faut faire la configuration du PC dans ( Panneau de configuration> Réseau et Internet> Centre Réseau et partage) et modifier les paramètres de l’adaptateur en définissant le serveur DNS avec l’adresse IP du Raspberry Pi dans le Protocole Internet Version 4 de mon interface réseau.
 
+Les liens des tutoriels que j'ai utlisés:
+https://www.youtube.com/watch?v=mKaekjQkHiU
+https://raspberrytips.fr/serveur-dns-local-raspberry-pi/
+
+
 
