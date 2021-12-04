@@ -41,6 +41,7 @@ Pour finir , il faut faire la configuration du PC dans ( Panneau de configuratio
 Les liens des tutoriels que j'ai utlisés:
 https://www.youtube.com/watch?v=mKaekjQkHiU
 https://raspberrytips.fr/serveur-dns-local-raspberry-pi/
+https://www.raspberrypi-france.fr/mise-en-place-dun-serveur-web-apache-sur-raspberry-pi/
 
 
 
