@@ -10,4 +10,4 @@ Verification
 wget -O verif_apache.html http://127.0.0.1
 cat ./verif_apache.html
 apache2 restart 
-NB: ou lieu d'écrire "sudo" à chaque fois, on peut juste écrire la commande "sudo su root " pour activer l'utilisateur root.
+NB: Au lieu d'écrire "sudo" à chaque fois, on peut juste écrire la commande "sudo su root " pour activer l'utilisateur root.
