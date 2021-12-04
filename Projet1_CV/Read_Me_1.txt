@@ -21,3 +21,18 @@ ls -al
 Dans le dossier www/ j'ai supprimé le fichier "index.html" et je l'ai remplacé par :
 mon_cv.html        mon_cv.css       photo_cv.png 
 
+Pour l'installation et la configuration de dnsmasq j'ai utlisé les commandes suivantes :
+sudo apt update           //mise à jour 
+sudo apt upgrade
+sudo apt install dnsmasq  // installation dnsmasq
+sudo nano /etc/dnsmasq.conf      //pour décommenter "domain-needed","bogus-priv", " expand-hosts" et écrire "domain=ZR.local"
+sudo service dnsmasq restart
+sudo nano/etc/hosts           // pour donner le nom du domain 172.20.10.3   CV
+
+Pour la vérification on utilise le cmd de PC 
+nslookup
+server 172.20.10.3
+mon_cv.html 
+ping CV
+
+
