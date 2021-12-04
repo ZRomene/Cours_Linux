@@ -6,4 +6,5 @@ bash calculatrice.sh      //pour exécuter
 
 Et on écrit dans le fichier calculatrice.sh 
 
-Les tutoriels que j'ai utlisés:
+Des liens utiles:
+https://www.system-linux.eu/index.php?post/2009/01/17/Operation-mathematique-simple-avec-Bash
