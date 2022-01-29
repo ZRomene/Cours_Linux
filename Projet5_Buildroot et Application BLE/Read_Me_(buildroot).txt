@@ -1,5 +1,6 @@
 
-Création d'un OS personnalisé avec Buildroot :
+Création d'un micro OS pour Raspberry pi3 avec Buildroot :
+
 
 On commance par installer le qemu par la commande sudo apt-get install qemu-system-arm. 
 Puis on install libncurses5- dev par la commande sudo apt-get install libncurses5-dev bc
