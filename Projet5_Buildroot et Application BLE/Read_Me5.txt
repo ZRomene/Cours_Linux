@@ -2,8 +2,7 @@ Création d'un OS personnalisé avec Buildroot :
 
 On commance par installer le qemu par la commande sudo apt-get install qemu-system-arm. 
 Puis on install libncurses5- dev par la commande sudo apt-get install libncurses5-dev bc
-On utilise ensuite la commande sudo apt install build-essential et on installe manpages-dev par la commande sudo apt-get install manpages-dev 
-On utlise aussi la commande unzip pour ..
+On utilise ensuite la commande sudo apt install build-essential , on installe manpages-dev par la commande sudo apt-get install manpages-dev et la commande unzip.
 Il est essentiel de faire l'update et l'upgrade du systeme avant d'installer le buildroot par les deux commandes sudo apt-get upgrade et sudo apt-get update.
 On télécharge le buildroot par la commande git clone https://github.com/buildroot/buildroot.git aprés avoir installer le git au premier lieu en écrivant sudo get install git .
 Puis dans le dossier board/ raspberrypi on génere l'image de notre modele de raspberry pi 3 par la commande cat genimage-raspberrypi3.cfg
