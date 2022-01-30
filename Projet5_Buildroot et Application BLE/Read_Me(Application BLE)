@@ -10,6 +10,8 @@ puis j'ai suivi le tutoriel suivant :
 <h2> Essai 3</h2>: j'ai utilisé utiliser les nodes 
 
 <h2> Essai 4 </h2>: J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant https://flows.nodered.org/node/node-red-contrib-generic-ble mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
+https://forums.raspberrypi.com/viewtopic.php?t=138145&f=28
+
 
 # Quelques commandes utiles:
 sudo apt-get install bluetooth python3-yaml python3-bluetooth
