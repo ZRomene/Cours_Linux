@@ -17,7 +17,6 @@ Essai 2: j'ai pensé à utiliser
 
 Essai 3: j'ai essyé d'utiliser les nodes 
 
-Essai 4: J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant https://flows.nodered.org/node/node-red-contrib-generic-ble  
-le seule problme c'est que j'arrive pas à configurer le simulateur sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
+Essai 4: J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant https://flows.nodered.org/node/node-red-contrib-generic-ble mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
 
 
