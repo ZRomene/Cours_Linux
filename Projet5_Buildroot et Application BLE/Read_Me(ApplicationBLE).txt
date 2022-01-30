@@ -13,9 +13,9 @@ sudo apt-get install pi-bluetooth
 sudo service bluetooth status'
 puis j'ai suivi le tutoriel suivant :
 
-Essai 2: j'ai pensé à utiliser 
+Essai 2: j'ai pensé à utiliser Cedela et Flutter .
 
-Essai 3: j'ai essyé d'utiliser les nodes 
+Essai 3: j'ai utilisé utiliser les nodes 
 
 Essai 4: J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant https://flows.nodered.org/node/node-red-contrib-generic-ble mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
 
