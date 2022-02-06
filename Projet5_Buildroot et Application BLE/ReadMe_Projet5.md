@@ -86,9 +86,9 @@ Mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essa
  
  Malgré que l'adresse est détectée et le bluetooth qui fonctionne bien, mon iPhone n'envoie rien!!
  
- ![](address detected.JPG)
+ ![](address_detected.JPG)
  
- ![](bluetooth running.JPG)
+ ![](bluetooth_running.JPG)
 
 
 
