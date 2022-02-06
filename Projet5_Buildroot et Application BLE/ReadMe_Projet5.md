@@ -66,19 +66,25 @@ sudo apt-get install pi-bluetooth
 sudo service bluetooth status'
 ```
 ![](Capture1.JPG)
+
 ### Essai 2: 
 J'ai pensé à utiliser Cedela et Flutter mais cette méthode n'inclue pas la partie BLE!
 
 ### Essai 3: 
 J'ai utilisé  les nodes suivantes
+![](Capture2.JPG)
 
 ### Essai 4 :
 J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant
  >`https://flows.nodered.org/node/node-red-contrib-generic-ble`
+ ![](Capture3.JPG)
  
 Mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
  >`https://forums.raspberrypi.com/viewtopic.php?t=138145&f=28`
-
+ 
+ Malgré que l'adresse est détectée est le bluetooth qui fonctionne bien, mon iPhone n'envoie rien. 
+ ![](address detected.JPG)
+ ![](bluetooth running.JPG)
 
 
 
