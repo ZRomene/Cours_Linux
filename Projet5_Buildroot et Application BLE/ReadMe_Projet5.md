@@ -84,7 +84,7 @@ J'ai utilisé les nodes Generic BLE configuration  en suivant le tuto suivant
 Mais j'ai pas réussi à configurer le simulateur BLE sur mon iphone , j'ai essayé plusieurs : DataWorks, BlueTemp, Bluetooth inspector , CZBLEcontrol ...
  >`https://forums.raspberrypi.com/viewtopic.php?t=138145&f=28`
  
- Malgré que l'adresse est détectée est le bluetooth qui fonctionne bien, mon iPhone n'envoie rien. 
+ Malgré que l'adresse est détectée et le bluetooth qui fonctionne bien, mon iPhone n'envoie rien!!
  
  ![](address detected.JPG)
  
