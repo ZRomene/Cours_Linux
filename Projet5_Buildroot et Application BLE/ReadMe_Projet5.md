@@ -51,7 +51,7 @@ make -j8&
 
 Une fois l'image est prête, on utlise RaspberryPi imager pour la télécharger dans la micro SD qui sera insérée dans la raspberry pi3.
 
-## Transmettre la data par un application Bluetooth:
+## Transmettre la data par une application Bluetooth:
 J'ai essayé plusieurs méthodes pour transmettre la date de mon iPhone au PC mais malgré que la connection était établie j'ai pas pu configuré le simulteur
 
 ### Essai 1 : 
